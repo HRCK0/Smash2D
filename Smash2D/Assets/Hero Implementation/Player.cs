@@ -47,7 +47,7 @@ namespace Hero_Implementation
                 theRigidBody.velocity = new Vector2(0, theRigidBody.velocity.y);
             }
 
-            if (Input.GetKey(jump))
+            if (Input.GetKey(jump) && isGrounded)
             {
                 theRigidBody.velocity = new Vector2(player.getMovingSpeed(), player.getJumpValue());
             }
