@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 953e28add019eae468f10f10a5772b12
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Heavy_Art_0
+    21300002: Heavy_Art_1
+    21300004: Heavy_Art_2
+    21300006: Heavy_Art_3
+    21300008: Heavy_Art_4
+    21300010: Heavy_Art_5
+    21300012: Heavy_Art_6
+    21300014: Heavy_Art_7
+    21300016: Heavy_Art_8
+    21300018: Heavy_Art_9
+    21300020: Heavy_Art_10
+    21300022: Heavy_Art_11
+    21300024: Heavy_Art_12
+    21300026: Heavy_Art_13
+    21300028: Heavy_Art_14
+    21300030: Heavy_Art_15
+    21300032: Heavy_Art_16
+    21300034: Heavy_Art_17
+    21300036: Heavy_Art_18
+    21300038: Heavy_Art_19
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heavy_Art_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1066
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be8fa6ef9aee2547bd8cac67689bfe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1010
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9152c2ac0a3c9bc4789461ad1fa0076c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645bd9407af773745b4770d7a459c34f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 898
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae10c5463827b8648864ea6811be2278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a9984287dbbfb47bbb37278013f7a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d9f16641499ff44ad6f11b8ca8681c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4e93e3b43491448b053661f7274333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3354617dd353b41b6cc19f65fa486c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb757eab8c6f3694694c2d29c86410d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf774b89d8dde4d84a9054c730010a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865eaf7502e64614b8b237323ec2e8c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d187354f901f8429d604704a7b8236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b33a6ee4f75c004c979253ede97df7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0602f7e54640a6443ba2258ca6753f77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fc45e7e7522d841b68fc0242f46c92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1d04c8ddc1b9b4ba273615443797fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01926e6d9f58f4c840442018c7af70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea71b9648a466b14181428adecb4a526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfec33a15db9fa34c9ff4fb413dddc57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy_Art_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721ff8a01e1e68f499b622b038b99234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7328194db4674f84db7afced9f01e2a5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
