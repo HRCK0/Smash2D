@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fdfa7000-f45e-48e3-83c4-1fe70d480e2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Smash2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Smash2D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hero Implementation/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hero Implementation/Player.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,19 +16,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Player.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+            <state relative-caret-position="690">
+              <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
               <folding>
-                <marker date="1549755957938" expanded="false" signature="6:52" ph="..." />
-                <marker date="1549755957938" expanded="true" signature="83:1608" ph="{...}" />
-                <marker date="1549755957938" expanded="true" signature="125:1606" ph="{...}" />
-                <marker date="1549755957938" expanded="true" signature="480:693" ph="{...}" />
-                <marker date="1549755957938" expanded="true" signature="716:872" ph="{...}" />
-                <marker date="1549755957938" expanded="true" signature="907:1600" ph="{...}" />
-                <marker date="1549755957938" expanded="true" signature="953:1111" ph="{...}" />
-                <marker date="1549755957938" expanded="true" signature="1153:1284" ph="{...}" />
-                <marker date="1549755957938" expanded="true" signature="1301:1410" ph="{...}" />
-                <marker date="1549755957938" expanded="true" signature="1461:1590" ph="{...}" />
+                <marker date="1549756673316" expanded="false" signature="6:52" ph="..." />
+                <marker date="1549756673316" expanded="true" signature="83:1634" ph="{...}" />
+                <marker date="1549756673316" expanded="true" signature="125:1632" ph="{...}" />
+                <marker date="1549756673316" expanded="true" signature="520:735" ph="{...}" />
+                <marker date="1549756673316" expanded="true" signature="758:914" ph="{...}" />
+                <marker date="1549756673316" expanded="true" signature="949:1626" ph="{...}" />
+                <marker date="1549756673316" expanded="true" signature="995:1143" ph="{...}" />
+                <marker date="1549756673316" expanded="true" signature="1185:1306" ph="{...}" />
+                <marker date="1549756673316" expanded="true" signature="1323:1432" ph="{...}" />
+                <marker date="1549756673316" expanded="true" signature="1433:1616" ph="/* if (Input.GetKey(jump) &amp;&amp; isGrounded) ... */" />
               </folding>
             </state>
           </provider>
@@ -219,7 +220,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549748042995</updated>
       <workItem from="1549748046686" duration="6805000" />
-      <workItem from="1549754960845" duration="1061000" />
+      <workItem from="1549754960845" duration="1711000" />
     </task>
     <task id="LOCAL-00001" summary="Adding first code&#10;+ Hero.cs&#10;+ Assassin.cs&#10;+ Shadow.ca&#10;+ Stamina.cs">
       <created>1549748406639</created>
@@ -291,11 +292,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549755968772</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Minor changes">
+      <created>1549756084849</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1549756084849</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Minor changes">
+      <created>1549756271583</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1549756271583</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7866000" />
+    <option name="totallyTimeSpent" value="8516000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,19 +455,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Player.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="40" column="41" lean-forward="true" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="41" />
+        <state relative-caret-position="690">
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
           <folding>
-            <marker date="1549755957938" expanded="false" signature="6:52" ph="..." />
-            <marker date="1549755957938" expanded="true" signature="83:1608" ph="{...}" />
-            <marker date="1549755957938" expanded="true" signature="125:1606" ph="{...}" />
-            <marker date="1549755957938" expanded="true" signature="480:693" ph="{...}" />
-            <marker date="1549755957938" expanded="true" signature="716:872" ph="{...}" />
-            <marker date="1549755957938" expanded="true" signature="907:1600" ph="{...}" />
-            <marker date="1549755957938" expanded="true" signature="953:1111" ph="{...}" />
-            <marker date="1549755957938" expanded="true" signature="1153:1284" ph="{...}" />
-            <marker date="1549755957938" expanded="true" signature="1301:1410" ph="{...}" />
-            <marker date="1549755957938" expanded="true" signature="1461:1590" ph="{...}" />
+            <marker date="1549756673316" expanded="false" signature="6:52" ph="..." />
+            <marker date="1549756673316" expanded="true" signature="83:1634" ph="{...}" />
+            <marker date="1549756673316" expanded="true" signature="125:1632" ph="{...}" />
+            <marker date="1549756673316" expanded="true" signature="520:735" ph="{...}" />
+            <marker date="1549756673316" expanded="true" signature="758:914" ph="{...}" />
+            <marker date="1549756673316" expanded="true" signature="949:1626" ph="{...}" />
+            <marker date="1549756673316" expanded="true" signature="995:1143" ph="{...}" />
+            <marker date="1549756673316" expanded="true" signature="1185:1306" ph="{...}" />
+            <marker date="1549756673316" expanded="true" signature="1323:1432" ph="{...}" />
+            <marker date="1549756673316" expanded="true" signature="1433:1616" ph="/* if (Input.GetKey(jump) &amp;&amp; isGrounded) ... */" />
           </folding>
         </state>
       </provider>

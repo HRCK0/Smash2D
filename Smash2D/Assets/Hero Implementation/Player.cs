@@ -5,7 +5,7 @@ namespace Hero_Implementation
 {
     public class Player : MonoBehaviour
     {
-        private Shadow player;
+        //private Shadow player;
         public float movementSpeed;
         private Rigidbody2D theRigidBody;//
 
@@ -23,7 +23,7 @@ namespace Hero_Implementation
         void Start()
         {
             theRigidBody = GetComponent<Rigidbody2D>();
-            player = new Shadow(theRigidBody.velocity.x, theRigidBody.velocity.y, 230, 40);
+            //player = new Shadow(theRigidBody.velocity.x, theRigidBody.velocity.y, 230, 40);
             anim = GetComponent<Animator>();
         }
 
@@ -47,11 +47,11 @@ namespace Hero_Implementation
             {
                 theRigidBody.velocity = new Vector2(0, theRigidBody.velocity.y);
             }
-
+/*
             if (Input.GetKey(jump) && isGrounded)
             {
                 theRigidBody.velocity = new Vector2(player.getMovingSpeed(), player.getJumpValue());
-            }
+            }*/
         }
     }
 }
