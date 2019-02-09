@@ -1,4 +1,4 @@
-using System;
+using Hero_Implementation.Types;
 
 namespace Hero_Implementation.Heroes
 {
@@ -23,9 +23,14 @@ namespace Hero_Implementation.Heroes
             return jumpValue;
         }
 
-    public override void Move()
+        public float getHealthPoints()
         {
-            
+            return healthPoints;
+        }
+        
+        public float getAttackPower()
+        {
+            return attackPower;
         }
         
         public override void Ability1()
