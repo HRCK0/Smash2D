@@ -22,22 +22,34 @@ namespace Hero_Implementation
         void Start()
         {
             theRigidBody = GetComponent<Rigidbody2D>();
-            player = new Shadow(theRigidBody.velocity.x);
+            player = new Shadow(theRigidBody.velocity.x, theRigidBody.velocity.y, 230, 40);
             anim = GetComponent<Animator>();
-            
         }
 
         void Update()
         {
             isGrounded = Physics2D.OverlapCircle(groundCheckPoint.position, groundCheckRadius, whatIsGround);
-            
+            CheckInput();
         }
 
-        public void checkInput()
+        private void CheckInput()
         {
             if (Input.GetKey(left))
             {
                 theRigidBody.velocity = new Vector2(-player.getMovingSpeed(), theRigidBody.velocity.y);
+            }
+            else if (Input.GetKey(right))
+            {
+                theRigidBody.velocity = new Vector2(player.getMovingSpeed(), theRigidBody.velocity.y);
+            }
+            else
+            {
+                theRigidBody.velocity = new Vector2(0, theRigidBody.velocity.y);
+            }
+
+            if (Input.GetKey(jump) && isGrounded)
+            {
+                theRigidBody.velocity = new Vector2(player.getMovingSpeed(), player.getJumpValue());
             }
         }
     }
