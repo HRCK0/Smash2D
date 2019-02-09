@@ -7,7 +7,7 @@ namespace Hero_Implementation
     {
         private Shadow player;
         public float movementSpeed;
-        private Rigidbody2D theRigidBody;
+        private Rigidbody2D theRigidBody;//
 
         public KeyCode left,
             right,
