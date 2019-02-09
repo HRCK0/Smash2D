@@ -1,3 +1,5 @@
+using System;
+
 namespace Hero_Implementation
 {
     public abstract class Hero

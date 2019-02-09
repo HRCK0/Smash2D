@@ -1,3 +1,5 @@
+using System;
+
 namespace Hero_Implementation.Heroes
 {
     public class Shadow : Assassin
