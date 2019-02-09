@@ -1,6 +1,4 @@
-using System;
-
-namespace Hero_Implementation
+namespace Hero_Implementation.Types
 {
     public abstract class Hero
     {
@@ -8,8 +6,6 @@ namespace Hero_Implementation
             movingSpeed,
             healthPoints,
             attackPower;
-        
-        public abstract void Move();
         public abstract void Ability1();
         public abstract void Ability2();
         public abstract void Ability3();

@@ -1,4 +1,4 @@
-namespace Hero_Implementation
+namespace Hero_Implementation.Types
 {
     public class Stamina
     {
