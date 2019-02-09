@@ -5,9 +5,10 @@ namespace Hero_Implementation.Heroes
     public class Shadow : Assassin
     {
 
-        public Shadow(float movSpd)
+        public Shadow(float movSpd, float jump)
         {
             movingSpeed = movSpd;
+            jumpValue = jump;
         }
 
         public float getMovingSpeed()

@@ -22,7 +22,7 @@ namespace Hero_Implementation
         void Start()
         {
             theRigidBody = GetComponent<Rigidbody2D>();
-            player = new Shadow(theRigidBody.velocity.x);
+            player = new Shadow(theRigidBody.velocity.x, theRigidBody.velocity.y);
             anim = GetComponent<Animator>();
             
         }
