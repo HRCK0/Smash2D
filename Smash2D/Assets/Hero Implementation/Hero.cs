@@ -4,7 +4,7 @@ namespace Hero_Implementation
 {
     public abstract class Hero
     {
-        private int jumpValue,
+        protected float jumpValue,
             movingSpeed,
             healthPoints,
             attackPower;
