@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdfa7000-f45e-48e3-83c4-1fe70d480e2a" name="Default Changelist" comment="Minor changes">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Smash2D/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Smash2D/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="fdfa7000-f45e-48e3-83c4-1fe70d480e2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Smash2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Smash2D/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hero Implementation/Assassin.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hero Implementation/Assassin.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hero Implementation/Classes/Hero.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hero Implementation/Classes/Hero.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hero Implementation/Heroes/Shadow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hero Implementation/Heroes/Shadow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hero Implementation/Paladin.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hero Implementation/Paladin.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hero Implementation/Stamina.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hero Implementation/Stamina.cs.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,14 +11,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Player.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            <state relative-caret-position="433">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
-                <marker date="1549754121356" expanded="true" signature="6:52" ph="..." />
+                <marker date="1549754121356" expanded="false" signature="6:52" ph="..." />
                 <marker date="1549754121356" expanded="true" signature="83:1582" ph="{...}" />
                 <marker date="1549754121356" expanded="true" signature="125:1580" ph="{...}" />
                 <marker date="1549754121356" expanded="true" signature="480:693" ph="{...}" />
@@ -46,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Heroes/Shadow.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
                 <marker date="1549754731713" expanded="true" signature="70:943" ph="{...}" />
                 <marker date="1549754731713" expanded="true" signature="107:941" ph="{...}" />
@@ -67,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Assassin.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <marker date="1549754731724" expanded="true" signature="35:128" ph="{...}" />
                 <marker date="1549754731724" expanded="true" signature="79:126" ph="{...}" />
@@ -81,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Hero.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
               <folding>
                 <marker date="1549754627839" expanded="true" signature="35:316" ph="{...}" />
                 <marker date="1549754627839" expanded="true" signature="68:314" ph="{...}" />
@@ -94,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Stamina.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
               <folding>
                 <marker date="1549754632110" expanded="true" signature="35:659" ph="{...}" />
                 <marker date="1549754632110" expanded="true" signature="62:657" ph="{...}" />
@@ -115,10 +105,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Stamina.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Assassin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Art.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Hero Implementation/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Hero.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Hero Implementation/Heroes/Shadow.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Art.meta" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -148,9 +138,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
@@ -158,11 +145,6 @@
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
-              <item name="Art" type="1045f7f1:UnityExplorerNode" />
             </path>
             <path>
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
@@ -186,6 +168,9 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
     </panes>
@@ -234,6 +219,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549748042995</updated>
       <workItem from="1549748046686" duration="6805000" />
+      <workItem from="1549754960845" duration="813000" />
     </task>
     <task id="LOCAL-00001" summary="Adding first code&#10;+ Hero.cs&#10;+ Assassin.cs&#10;+ Shadow.ca&#10;+ Stamina.cs">
       <created>1549748406639</created>
@@ -277,11 +263,32 @@
       <option name="project" value="LOCAL" />
       <updated>1549753307842</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Minor changes">
+      <created>1549755048079</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1549755048080</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Minor changes">
+      <created>1549755182085</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1549755182085</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Minor changes">
+      <created>1549755199026</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1549755199026</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6805000" />
+    <option name="totallyTimeSpent" value="7618000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -294,21 +301,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13020134" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13154362" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Version Control" weight="0.3286119" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -316,13 +315,22 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.11756374" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,96 +369,16 @@
     <entry file="file://$PROJECT_DIR$/Assets/Art.meta">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-421">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Assassin.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Stamina.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Classes/Paladin.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Classes/Hero.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Classes/Assassin.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Classes/Stamina.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Stamina.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-          <folding>
-            <marker date="1549754632110" expanded="true" signature="35:659" ph="{...}" />
-            <marker date="1549754632110" expanded="true" signature="62:657" ph="{...}" />
-            <marker date="1549754632110" expanded="true" signature="170:264" ph="{...}" />
-            <marker date="1549754632110" expanded="true" signature="305:417" ph="{...}" />
-            <marker date="1549754632110" expanded="true" signature="476:544" ph="{...}" />
-            <marker date="1549754632110" expanded="true" signature="580:651" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Hero.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-          <folding>
-            <marker date="1549754627839" expanded="true" signature="35:316" ph="{...}" />
-            <marker date="1549754627839" expanded="true" signature="68:314" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Assassin.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding>
-            <marker date="1549754731724" expanded="true" signature="35:128" ph="{...}" />
-            <marker date="1549754731724" expanded="true" signature="79:126" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Assassin.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Stamina.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Classes/Paladin.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Classes/Hero.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Classes/Assassin.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Classes/Stamina.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Heroes/Shadow.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <marker date="1549754731713" expanded="true" signature="70:943" ph="{...}" />
             <marker date="1549754731713" expanded="true" signature="107:941" ph="{...}" />
@@ -466,12 +394,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Hero.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+          <folding>
+            <marker date="1549754627839" expanded="true" signature="35:316" ph="{...}" />
+            <marker date="1549754627839" expanded="true" signature="68:314" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Stamina.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+          <folding>
+            <marker date="1549754632110" expanded="true" signature="35:659" ph="{...}" />
+            <marker date="1549754632110" expanded="true" signature="62:657" ph="{...}" />
+            <marker date="1549754632110" expanded="true" signature="170:264" ph="{...}" />
+            <marker date="1549754632110" expanded="true" signature="305:417" ph="{...}" />
+            <marker date="1549754632110" expanded="true" signature="476:544" ph="{...}" />
+            <marker date="1549754632110" expanded="true" signature="580:651" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Assassin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1549754731724" expanded="true" signature="35:128" ph="{...}" />
+            <marker date="1549754731724" expanded="true" signature="79:126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Player.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        <state relative-caret-position="433">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
-            <marker date="1549754121356" expanded="true" signature="6:52" ph="..." />
+            <marker date="1549754121356" expanded="false" signature="6:52" ph="..." />
             <marker date="1549754121356" expanded="true" signature="83:1582" ph="{...}" />
             <marker date="1549754121356" expanded="true" signature="125:1580" ph="{...}" />
             <marker date="1549754121356" expanded="true" signature="480:693" ph="{...}" />

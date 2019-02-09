@@ -36,11 +36,11 @@ namespace Hero_Implementation
         {
             if (Input.GetKey(left))
             {
-                theRigidBody.velocity = new Vector2(-player.getMovingSpeed(), theRigidBody.velocity.y);
+                theRigidBody.velocity = new Vector2(-theRigidBody.velocity.x, theRigidBody.velocity.y);//-player.getMovingSpeed()
             }
             else if (Input.GetKey(right))
             {
-                theRigidBody.velocity = new Vector2(player.getMovingSpeed(), theRigidBody.velocity.y);
+                theRigidBody.velocity = new Vector2(theRigidBody.velocity.x, theRigidBody.velocity.y);
             }
             else
             {
