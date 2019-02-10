@@ -1,9 +1,7 @@
 using Hero_Implementation.Heroes;
 using UnityEngine;
 
-namespace Hero_Implementation
-{
-    public class Player : MonoBehaviour
+public class Player : MonoBehaviour
     {
         //private Shadow player;
         public float movementSpeed;
@@ -43,7 +41,7 @@ namespace Hero_Implementation
                 theRigidBody.velocity = new Vector2(0, theRigidBody.velocity.y);
             }
         }
-
+/*
         private void CheckInput()
         {
             if (Input.GetKey(left))
@@ -62,7 +60,6 @@ namespace Hero_Implementation
             if (Input.GetKey(jump) && isGrounded)
             {
                 theRigidBody.velocity = new Vector2(player.getMovingSpeed(), player.getJumpValue());
-            }*/
-        }
+            }
+        }*/
     }
-}
