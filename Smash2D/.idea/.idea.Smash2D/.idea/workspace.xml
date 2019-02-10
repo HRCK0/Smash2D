@@ -16,19 +16,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Player.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+            <state relative-caret-position="343">
+              <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
               <folding>
-                <marker date="1549756673316" expanded="false" signature="6:52" ph="..." />
-                <marker date="1549756673316" expanded="true" signature="83:1634" ph="{...}" />
-                <marker date="1549756673316" expanded="true" signature="125:1632" ph="{...}" />
-                <marker date="1549756673316" expanded="true" signature="520:735" ph="{...}" />
-                <marker date="1549756673316" expanded="true" signature="758:914" ph="{...}" />
-                <marker date="1549756673316" expanded="true" signature="949:1626" ph="{...}" />
-                <marker date="1549756673316" expanded="true" signature="995:1143" ph="{...}" />
-                <marker date="1549756673316" expanded="true" signature="1185:1306" ph="{...}" />
-                <marker date="1549756673316" expanded="true" signature="1323:1432" ph="{...}" />
-                <marker date="1549756673316" expanded="true" signature="1433:1616" ph="/* if (Input.GetKey(jump) &amp;&amp; isGrounded) ... */" />
+                <marker date="1549756961854" expanded="false" signature="6:52" ph="..." />
+                <marker date="1549756961854" expanded="true" signature="83:2083" ph="{...}" />
+                <marker date="1549756961854" expanded="true" signature="125:2081" ph="{...}" />
+                <marker date="1549756961854" expanded="true" signature="520:737" ph="{...}" />
+                <marker date="1549756961854" expanded="true" signature="760:1363" ph="{...}" />
+                <marker date="1549756961854" expanded="true" signature="916:1064" ph="{...}" />
+                <marker date="1549756961854" expanded="true" signature="1106:1227" ph="{...}" />
+                <marker date="1549756961854" expanded="true" signature="1244:1353" ph="{...}" />
+                <marker date="1549756961854" expanded="true" signature="1398:2075" ph="{...}" />
+                <marker date="1549756961854" expanded="true" signature="1444:1592" ph="{...}" />
+                <marker date="1549756961854" expanded="true" signature="1634:1755" ph="{...}" />
+                <marker date="1549756961854" expanded="true" signature="1772:1881" ph="{...}" />
+                <marker date="1549756961854" expanded="true" signature="1882:2065" ph="/* if (Input.GetKey(jump) &amp;&amp; isGrounded) ... */" />
               </folding>
             </state>
           </provider>
@@ -59,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Assassin.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <marker date="1549754731724" expanded="true" signature="35:128" ph="{...}" />
                 <marker date="1549754731724" expanded="true" signature="79:126" ph="{...}" />
@@ -220,7 +223,7 @@
       <option name="presentableId" value="Default" />
       <updated>1549748042995</updated>
       <workItem from="1549748046686" duration="6805000" />
-      <workItem from="1549754960845" duration="1711000" />
+      <workItem from="1549754960845" duration="2002000" />
     </task>
     <task id="LOCAL-00001" summary="Adding first code&#10;+ Hero.cs&#10;+ Assassin.cs&#10;+ Shadow.ca&#10;+ Stamina.cs">
       <created>1549748406639</created>
@@ -306,11 +309,25 @@
       <option name="project" value="LOCAL" />
       <updated>1549756271583</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Minor changes">
+      <created>1549756686016</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1549756686016</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Minor changes">
+      <created>1549756732109</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1549756732109</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8516000" />
+    <option name="totallyTimeSpent" value="8807000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -426,7 +443,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Types/Assassin.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <marker date="1549754731724" expanded="true" signature="35:128" ph="{...}" />
             <marker date="1549754731724" expanded="true" signature="79:126" ph="{...}" />
@@ -455,19 +472,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Hero Implementation/Player.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+        <state relative-caret-position="343">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
           <folding>
-            <marker date="1549756673316" expanded="false" signature="6:52" ph="..." />
-            <marker date="1549756673316" expanded="true" signature="83:1634" ph="{...}" />
-            <marker date="1549756673316" expanded="true" signature="125:1632" ph="{...}" />
-            <marker date="1549756673316" expanded="true" signature="520:735" ph="{...}" />
-            <marker date="1549756673316" expanded="true" signature="758:914" ph="{...}" />
-            <marker date="1549756673316" expanded="true" signature="949:1626" ph="{...}" />
-            <marker date="1549756673316" expanded="true" signature="995:1143" ph="{...}" />
-            <marker date="1549756673316" expanded="true" signature="1185:1306" ph="{...}" />
-            <marker date="1549756673316" expanded="true" signature="1323:1432" ph="{...}" />
-            <marker date="1549756673316" expanded="true" signature="1433:1616" ph="/* if (Input.GetKey(jump) &amp;&amp; isGrounded) ... */" />
+            <marker date="1549756961854" expanded="false" signature="6:52" ph="..." />
+            <marker date="1549756961854" expanded="true" signature="83:2083" ph="{...}" />
+            <marker date="1549756961854" expanded="true" signature="125:2081" ph="{...}" />
+            <marker date="1549756961854" expanded="true" signature="520:737" ph="{...}" />
+            <marker date="1549756961854" expanded="true" signature="760:1363" ph="{...}" />
+            <marker date="1549756961854" expanded="true" signature="916:1064" ph="{...}" />
+            <marker date="1549756961854" expanded="true" signature="1106:1227" ph="{...}" />
+            <marker date="1549756961854" expanded="true" signature="1244:1353" ph="{...}" />
+            <marker date="1549756961854" expanded="true" signature="1398:2075" ph="{...}" />
+            <marker date="1549756961854" expanded="true" signature="1444:1592" ph="{...}" />
+            <marker date="1549756961854" expanded="true" signature="1634:1755" ph="{...}" />
+            <marker date="1549756961854" expanded="true" signature="1772:1881" ph="{...}" />
+            <marker date="1549756961854" expanded="true" signature="1882:2065" ph="/* if (Input.GetKey(jump) &amp;&amp; isGrounded) ... */" />
           </folding>
         </state>
       </provider>

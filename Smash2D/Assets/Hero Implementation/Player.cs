@@ -30,7 +30,18 @@ namespace Hero_Implementation
         void Update()
         {
             isGrounded = Physics2D.OverlapCircle(groundCheckPoint.position, groundCheckRadius, whatIsGround);
-            CheckInput();
+            if (Input.GetKey(left))
+            {
+                theRigidBody.velocity = new Vector2(-movementSpeed, theRigidBody.velocity.y);//-player.getMovingSpeed()
+            }
+            else if (Input.GetKey(right))
+            {
+                theRigidBody.velocity = new Vector2(movementSpeed, theRigidBody.velocity.y);
+            }
+            else
+            {
+                theRigidBody.velocity = new Vector2(0, theRigidBody.velocity.y);
+            }
         }
 
         private void CheckInput()
