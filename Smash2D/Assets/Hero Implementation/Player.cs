@@ -7,7 +7,7 @@ namespace Hero_Implementation
     {
         //private Shadow player;
         public float movementSpeed;
-        private Rigidbody2D theRigidBody;//
+        public Rigidbody2D theRigidBody;//
 
         public KeyCode left,
             right,
@@ -18,7 +18,7 @@ namespace Hero_Implementation
         public float groundCheckRadius;
         public LayerMask whatIsGround;
 
-        private Animator anim;
+        public Animator anim;
 
         void Start()
         {
